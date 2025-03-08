@@ -27,7 +27,7 @@
    ```
 3. Запустите приложение:
    ```sh
-   python main.py
+   python telegram_messgae_sender.py
    ```
 
 ## Использование
