@@ -14,7 +14,7 @@ from PyQt5.QtCore import Qt
 import requests
 from io import BytesIO
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "YOUR_BOT_TOKEN" # Замените на свой токен. Токен можно узнать, создав Telegram-бота с помощью @BotFather
 bot = telebot.TeleBot(TOKEN)
 
 class TelegramUserInfoApp(QWidget):
