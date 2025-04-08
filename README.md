@@ -46,3 +46,4 @@ python telegram_messgae_sender.py
 - Developer's Telegram channel: [@flarosoftdev](https://t.me/flarosoftdev)
 - Archive with Telegram bots from Flarosoft: [@flarosoftbots](https://t.me/flarosoftbots)
 - GitHub: [Flarosoft Development](https://github.com/flarosoftdev)
+- Developer's website: (flarosoft.pages.dev)[https://flarosoft.pages.dev]
